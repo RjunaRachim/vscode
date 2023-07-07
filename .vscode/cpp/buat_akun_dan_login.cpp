@@ -76,6 +76,8 @@ int main(){
     cout << "===================" << endl;
     cout << " " << endl;
     cout << "Selamat datang";
+
+    test edit
     
     cin.get();
     cin.ignore();
